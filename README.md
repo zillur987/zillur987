@@ -4,11 +4,11 @@
 
 ## 📊 GitHub Stats
 
-![Zillur's GitHub stats](https://github-readme-stats.vercel.app/api?username=zillur987&show_icons=true&theme=default)
+![Zillur's GitHub stats](https://github-readme-stats.vercel.app/api?username=zillur987&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zillur987&layout=compact&theme=default)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zillur987&layout=compact&theme=radical&cache_seconds=86400)
 
-![Streak](https://streak-stats.demolab.com?user=zillur987&theme=default)
+![Streak](https://streak-stats.demolab.com?user=zillur987&theme=radical&cache_seconds=86400)
 
 Experienced Software Engineer with 4+ years of experience building scalable, secure, and high-performance applications. Specialized in Laravel, REST APIs, and system design, with a strong focus on SaaS and ERP solutions.
 
