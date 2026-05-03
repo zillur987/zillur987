@@ -1,6 +1,6 @@
 # Hi, I'm Zillur Rahman 👋
 
-## 💼 Senior Software Engineer
+## 💼 Software Engineer
 
 ## 📊 GitHub Stats
 
