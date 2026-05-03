@@ -2,6 +2,14 @@
 
 ## 💼 Senior Software Engineer
 
+## 📊 GitHub Stats
+
+![Zillur's GitHub stats](https://github-readme-stats.vercel.app/api?username=zillur987&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zillur987&layout=compact&theme=radical)
+
+![Streak](https://streak-stats.demolab.com?user=zillur987&theme=radical)
+
 Experienced Software Engineer with 4+ years of experience building scalable, secure, and high-performance applications. Specialized in Laravel, REST APIs, and system design, with a strong focus on SaaS and ERP solutions.
 
 ---
